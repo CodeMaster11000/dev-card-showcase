@@ -1502,6 +1502,25 @@
     "name": "PavanKarthik",
     "github": "https://github.com/pavanakarthik12"
   }
+},
+{
+  "title": "Study Breaks & Focus Techniques 🧠",
+  "description": "A practical guide that teaches effective study breaks and focus techniques to improve learning efficiency.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "Productivity",
+    "Study Tips",
+    "Student Wellness"
+  ],
+  "links": {
+    "live": "./projects/study-breaks-focus-guide/index.html"
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
+  }
 }
+
 
 ]
